@@ -5,15 +5,15 @@ Collection of stuff
 https://github.com/gothinkster/realworld
 
 ### Laundry list
-* Programming language
-* Data structures and algorithems
-* Coding interview problems
-* GoF Design Patterns
-* Cloud (AWS/GCP/Azure)
-* DevOps
-* Distributed Systems patterns
-* Microservices
-* System Design
-* Big Data - Spark
-* ML Algorithems
-* Agile - Scrum
+- [ ] Programming language
+- [ ] Data structures and algorithems
+- [ ] Coding interview problems
+- [ ] GoF Design Patterns
+- [ ] Cloud (AWS/GCP/Azure)
+- [ ] DevOps
+- [ ] Distributed Systems patterns
+- [ ] Microservices
+- [ ] System Design
+- [ ] Big Data - Spark
+- [ ] ML Algorithems
+- [ ] Agile - Scrum
